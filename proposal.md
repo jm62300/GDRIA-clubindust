@@ -33,6 +33,9 @@ champs de compétences sont :
 * Planification et recherche heuristique
 * Systèmes multi-agents et décision collective
 
+La mission du GDR IA est de regrouper les chercheurs français relevant de ces thématiques, d'assurer une animation de cette communauté scienfitique, de veiller à la formation des jeunes chercheurset à leur intégration à la communauté, et de servir d'interlocuteur au CNRS en ce qui concerne ces thématiques.
+
+Nous souhaitons ajouter que le GDR IA se focalise sur ce "coeur" de l'intelligence artificielle, mais que d'autres GDR du CNRS ont également des liens forts avec certaines thématiques au coeur ou prôche de l'intelligence artificielle. On peut mentionner par exemple la vision (GDR ISIS), la robotique (GDR Robotique), le traitement automatique des langues (GDR TAL), la recherche d’information et du Big Data (GDR MaDICS), la recherche opérationnelle (GDR RO), la bioinformatique (GDR BIM),...
 
 # Participants
 
@@ -43,6 +46,8 @@ d'un club des industriels au sein du GDR IA.
 
 
 # Objectifs
+
+Le but de ce club industriel, et de permettre une meilleure articulation entre la communauté des chercheurs en intelligence artificielle, et celle des industriels. On pourra en particulier discuter des points suivants:
 
 * Comment former nos étudiants aux métiers de demain ? Quels sont les outils
 qu'il est nécessaire de connaître ? Doit-on favoriser l'aspect théorique ou pratique de
@@ -64,6 +69,11 @@ comment résoudre certains problèmes en pratiques. L'objectif est aussi de voir
 les prototypes élaborés aux seins des laboratoires de recherche peuvent être utilisés
 dans un cadre industriel.
 
+
+# Pourquoi adherer au club des industriels du GDR IA ?
+
+* Participer au développement du GDR IA et de la discipline.
+
 * Journée industrielle.
 
 * Cartographie des laboratoires et des équipes.
@@ -75,3 +85,4 @@ En plus des centres de recherche, la mise en place d'un prix peut aussi permettr
 de motiver certaines écoles à participer. Ici, l'avantage est double puisqu'il serait
 possible de pointer les équipes intéressées par le sujet et/ou des étudiants
 motivés et talentueux.
+
