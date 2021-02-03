@@ -70,6 +70,13 @@ les prototypes élaborés aux seins des laboratoires de recherche peuvent être 
 dans un cadre industriel.
 
 
+* Défis. Comment bien les poser ? Compétition sur un problème industriel précis.
+En plus des centres de recherche, la mise en place d'un prix peut aussi permettre
+de motiver certaines écoles à participer. Ici, l'avantage est double puisqu'il serait
+possible de pointer les équipes intéressées par le sujet et/ou des étudiants
+motivés et talentueux.
+
+
 # Pourquoi adherer au club des industriels du GDR IA ?
 
 * Participer au développement du GDR IA et de la discipline.
@@ -80,9 +87,4 @@ dans un cadre industriel.
 
 * Visibilité (site web GDR, journées plénières, école jeunes chercheurs, etc)
 
-* Défis. Comment bien les poser ? Compétition sur un problème industriel précis.
-En plus des centres de recherche, la mise en place d'un prix peut aussi permettre
-de motiver certaines écoles à participer. Ici, l'avantage est double puisqu'il serait
-possible de pointer les équipes intéressées par le sujet et/ou des étudiants
-motivés et talentueux.
-
+* Défis
