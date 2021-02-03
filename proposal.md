@@ -33,9 +33,9 @@ champs de compétences sont :
 * Planification et recherche heuristique
 * Systèmes multi-agents et décision collective
 
-La mission du GDR IA est de regrouper les chercheurs français relevant de ces thématiques, d'assurer une animation de cette communauté scienfitique, de veiller à la formation des jeunes chercheurset à leur intégration à la communauté, et de servir d'interlocuteur au CNRS en ce qui concerne ces thématiques.
+La mission du GDR IA est de regrouper les chercheurs français relevant de ces thématiques, d'assurer une animation de cette communauté scienfitique, de veiller à la formation des jeunes chercheurs et à leur intégration à la communauté, et de servir d'interlocuteur au CNRS en ce qui concerne ces thématiques.
 
-Nous souhaitons ajouter que le GDR IA se focalise sur ce "coeur" de l'intelligence artificielle, mais que d'autres GDR du CNRS ont également des liens forts avec certaines thématiques au coeur ou prôche de l'intelligence artificielle. On peut mentionner par exemple la vision (GDR ISIS), la robotique (GDR Robotique), le traitement automatique des langues (GDR TAL), la recherche d’information et du Big Data (GDR MaDICS), la recherche opérationnelle (GDR RO), la bioinformatique (GDR BIM),...
+Nous souhaitons ajouter que le GDR IA se focalise sur ce "coeur" de l'intelligence artificielle, mais que d'autres GDR du CNRS ont également des liens forts avec certaines thématiques au coeur ou proche de l'intelligence artificielle. On peut mentionner par exemple la vision (GDR ISIS), la robotique (GDR Robotique), le traitement automatique des langues (GDR TAL), la recherche d’information et du Big Data (GDR MaDICS), la recherche opérationnelle (GDR RO), la bioinformatique (GDR BIM),...
 
 # Participants
 
