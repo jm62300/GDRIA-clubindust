@@ -42,9 +42,9 @@ Nous souhaitons ajouter que le GDR IA se focalise sur ce "coeur" de l'intelligen
 Ici la liste des participants à la discussion concernant la création, ainsi que les objectifs,
 d'un club des industriels au sein du GDR IA.
 
-* Lagniez Jean-Marie, Université d'Artois, Professeur, <lagniez@cril.univ-artois.fr>
+* Jean-Marie Lagniez, Université d'Artois, Professeur, <lagniez@cril.univ-artois.fr>
 * Vareilles Élise, ISAE SUPAERO Toulouse, Professeur, <elise.vareilles@isae-supaero.fr>
-* Denis Christophe, LIP6 - UTC, Ma^itre de Conférences (HDR), <christophe.denis@lip6.fr>
+* Denis Christophe, LIP6 - UTC, Maître de Conférences (HDR), <christophe.denis@lip6.fr>
 
 
 # Objectifs
