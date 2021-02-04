@@ -43,6 +43,8 @@ Ici la liste des participants à la discussion concernant la création, ainsi qu
 d'un club des industriels au sein du GDR IA.
 
 * Lagniez Jean-Marie, Université d'Artois, Professeur, <lagniez@cril.univ-artois.fr>
+* Vareilles Élise, ISAE SUPAERO Toulouse, Professeur, <elise.vareilles@isae-supaero.fr>
+* Denis Christophe, LIP6 - UTC, Ma^itre de Conférences (HDR), <christophe.denis@lip6.fr>
 
 
 # Objectifs
@@ -60,7 +62,7 @@ sujet précis. Possibilité de mettre en place des colloques nationaux, invitant
 et industriels, afin de discuter précisément autour de l'état de l'art d'un domaine.
 
 * Collaboration entre industriels et académiques, comment faire ? Les enseignants/chercheurs
-ainsi que les chercheurs sont déjà énormément sollicités (cours, review, administration, ...).
+ainsi que les chercheurs sont déjà énormément sollicités (cours, review, administration, \ldots).
 Quel type de support pour mener à bien de tels collaborations ? (Thèse cifre ?
 Crédit impôt recherche ? ANR ? autres ?).
 
