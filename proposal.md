@@ -60,7 +60,7 @@ sujet précis. Possibilité de mettre en place des colloques nationaux, invitant
 et industriels, afin de discuter précisément autour de l'état de l'art d'un domaine.
 
 * Collaboration entre industriels et académiques, comment faire ? Les enseignants/chercheurs
-ainsi que les chercheurs sont déjà énormément sollicités (cours, review, administration, \ldots).
+ainsi que les chercheurs sont déjà énormément sollicités (cours, review, administration, ...).
 Quel type de support pour mener à bien de tels collaborations ? (Thèse cifre ?
 Crédit impôt recherche ? ANR ? autres ?).
 
