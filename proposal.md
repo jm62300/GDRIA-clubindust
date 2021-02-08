@@ -37,15 +37,6 @@ La mission du GDR IA est de regrouper les chercheurs français relevant de ces t
 
 Nous souhaitons ajouter que le GDR IA se focalise sur ce "coeur" de l'intelligence artificielle, mais que d'autres GDR du CNRS ont également des liens forts avec certaines thématiques au coeur ou proche de l'intelligence artificielle. On peut mentionner par exemple la vision (GDR ISIS), la robotique (GDR Robotique), le traitement automatique des langues (GDR TAL), la recherche d’information et du Big Data (GDR MaDICS), la recherche opérationnelle (GDR RO), la bioinformatique (GDR BIM), ...
 
-# Participants
-
-Ici la liste des participants à la discussion concernant la création, ainsi que les objectifs,
-d'un club des industriels au sein du GDR IA.
-
-* Jean-Marie Lagniez, Université d'Artois, Professeur, <lagniez@cril.univ-artois.fr>
-* Vareilles Élise, ISAE SUPAERO Toulouse, Professeur, <elise.vareilles@isae-supaero.fr>
-* Denis Christophe, LIP6 - UTC, Maître de Conférences (HDR), <christophe.denis@lip6.fr>
-
 
 # Objectifs
 
@@ -90,3 +81,19 @@ motivés et talentueux.
 * Visibilité (site web GDR, journées plénières, école jeunes chercheurs, etc)
 
 * Défis
+
+
+# Participants
+
+Ici la liste des participants à la discussion concernant la création, ainsi que les objectifs,
+d'un club des industriels au sein du GDR IA.
+
+## Universitaires :
+
+* Jean-Marie Lagniez, Université d'Artois, Professeur, <lagniez@cril.univ-artois.fr>
+* Vareilles Élise, ISAE SUPAERO Toulouse, Professeur, <elise.vareilles@isae-supaero.fr>
+* Denis Christophe, LIP6 - UTC, Maître de Conférences (HDR), <christophe.denis@lip6.fr>
+
+## Industriels
+
+* Jean-Marc Astesana, Renault, <jean-marc.astesana@renault.com>
