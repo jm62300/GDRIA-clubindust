@@ -97,3 +97,4 @@ d'un club des industriels au sein du GDR IA.
 ## Industriels
 
 * Jean-Marc Astesana, Renault, <jean-marc.astesana@renault.com>
+* Anicet Bart, Sencrop, <anicet@sencrop.com>
