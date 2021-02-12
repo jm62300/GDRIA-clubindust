@@ -98,3 +98,4 @@ d'un club des industriels au sein du GDR IA.
 
 * Jean-Marc Astesana, Renault, <jean-marc.astesana@renault.com>
 * Anicet Bart, Sencrop, <anicet@sencrop.com>
+* Vincent Perrin, IBM, <vincent.perrin@fr.ibm.com>
