@@ -91,11 +91,13 @@ d'un club des industriels au sein du GDR IA.
 ## Universitaires :
 
 * Jean-Marie Lagniez, Université d'Artois, Professeur, <lagniez@cril.univ-artois.fr>
-* Vareilles Élise, ISAE SUPAERO Toulouse, Professeur, <elise.vareilles@isae-supaero.fr>
-* Denis Christophe, LIP6 - UTC, Maître de Conférences (HDR), <christophe.denis@lip6.fr>
+* Élise Vareilles, ISAE SUPAERO Toulouse, Professeur, <elise.vareilles@isae-supaero.fr>
+* Christophe Denis, LIP6 - UTC, Maître de Conférences (HDR), <christophe.denis@lip6.fr>
 
 ## Industriels
 
 * Jean-Marc Astesana, Renault, <jean-marc.astesana@renault.com>
 * Anicet Bart, Sencrop, <anicet@sencrop.com>
+* Cedric Bastoul, Huawei, <cedric.bastoul@huawei.com>
 * Vincent Perrin, IBM, <vincent.perrin@fr.ibm.com>
+
