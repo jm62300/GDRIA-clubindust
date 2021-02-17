@@ -12,7 +12,7 @@ Depuis l'apparition de l'article de Turing, les progrès ont été nombreux
 et l’intelligence artificielle est utilisée pour résoudre un grand nombre de problèmes,
 comme la reconnaissance d’images, le traitement du langage naturel, et le développement
 des véhicules autonomes. Bien que ces tâches semblent être en adéquation avec
-notre définition de la penser, peut-on décemment dire que les machines pensent ?
+notre définition de la pensée, peut-on décemment dire que les machines pensent ?
 
 Lorsque nous étudions les techniques utilisées en IA, nous remarquons que c'est en fait un
 agrégat de différentes techniques mis en oeuvre pour résoudre différentes problématiques.
