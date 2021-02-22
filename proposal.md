@@ -99,5 +99,7 @@ d'un club des industriels au sein du GDR IA.
 * Jean-Marc Astesana, Renault, <jean-marc.astesana@renault.com>
 * Anicet Bart, Sencrop, <anicet@sencrop.com>
 * Cedric Bastoul, Huawei, <cedric.bastoul@huawei.com>
+* Emmanuel Benazera, joliBrain,  <emmanuel.benazera@jolibrain.com>
+* Jean-Guillaume Fages, Cosling, <jg.fages@cosling.com>
 * Vincent Perrin, IBM, <vincent.perrin@fr.ibm.com>
 
