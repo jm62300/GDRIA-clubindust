@@ -78,9 +78,9 @@ motivés et talentueux.
 
 * Cartographie des laboratoires et des équipes.
 
-* Visibilité (site web GDR, journées plénières, école jeunes chercheurs, etc)
+* Visibilité (site web GDR, journées plénières, école jeunes chercheurs, etc).
 
-* Défis
+* Défis.
 
 
 # Participants
