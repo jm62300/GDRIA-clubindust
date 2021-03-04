@@ -91,8 +91,8 @@ d'un club des industriels au sein du GDR IA.
 ## Universitaires :
 
 * Christophe Denis, LIP6 - UTC, Maître de Conférences (HDR), <christophe.denis@lip6.fr>
-* Jean-Marie Lagniez, Université d'Artois, Professeur, <lagniez@cril.univ-artois.fr>
 * Yaël Fregier, Université d'Artois, Maître de Conférences, <yael.fregier@univ-artois.fr>
+* Jean-Marie Lagniez, Université d'Artois, Professeur, <lagniez@cril.univ-artois.fr>
 * Élise Vareilles, ISAE SUPAERO Toulouse, Professeur, <elise.vareilles@isae-supaero.fr>
 
 ## Industriels
