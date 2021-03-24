@@ -89,7 +89,7 @@ Ici la liste des participants à la discussion concernant la création, ainsi qu
 d'un club des industriels au sein du GDR IA.
 
 ## Universitaires :
-
+* Fabien Chhel, Responsable équipe recherche ERIS chez ESEO-Tech, <Fabien.CHHEL@eseo.fr>
 * Christophe Denis, LIP6 - UTC, Maître de Conférences (HDR), <christophe.denis@lip6.fr>
 * Yaël Fregier, Université d'Artois, Maître de Conférences, <yael.fregier@univ-artois.fr>
 * Jean-Marie Lagniez, Université d'Artois, Professeur, <lagniez@cril.univ-artois.fr>
