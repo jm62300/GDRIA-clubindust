@@ -100,7 +100,8 @@ d'un club des industriels au sein du GDR IA.
 * Jean-Marc Astesana, Renault, <jean-marc.astesana@renault.com>
 * Anicet Bart, Sencrop, <anicet@sencrop.com>
 * Cedric Bastoul, Huawei, <cedric.bastoul@huawei.com>
-* Emmanuel Benazera, joliBrain,  <emmanuel.benazera@jolibrain.com>
+* Emmanuel Benazera, joliBrain, <emmanuel.benazera@jolibrain.com>
+* Jean-François Bouin, Diagrams, <jfbouin@diagrams-technologies.com>
 * Raphael Feraud, Orange, <raphael.feraud@orange.com>
 * Pierre Girardeau , Cross Data, <pgirardeau@crossdata.tech>
 * Mathieu Klimczak, CITC (Centre d'Innovation des Technologies sans Contact), <mklimczak@citc-eurarfid.com>
