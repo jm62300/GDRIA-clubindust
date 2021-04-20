@@ -106,6 +106,7 @@ d'un club des industriels au sein du GDR IA.
 * Pierre Girardeau , Cross Data, <pgirardeau@crossdata.tech>
 * Mathieu Klimczak, CITC (Centre d'Innovation des Technologies sans Contact), <mklimczak@citc-eurarfid.com>
 * Christophe Labreuche, Thales, <christophe.labreuche@thalesgroup.com>
+* Cedrick Lelionnais, <cedrick.lelionnais@sncf.fr>
 * Jean-Guillaume Fages, Cosling, <jg.fages@cosling.com>
 * Vincent Perrin, IBM, <vincent.perrin@fr.ibm.com>
 
